@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "JetPay"
 include(":app")
- 
+include(":ui")
